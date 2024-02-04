@@ -2,7 +2,7 @@ Netflix Clone Project<br>
 Welcome to my Netflix Clone project! 🚀<br>
 
 Introduction<br>
-Hey there! I'm Anasmit, and this is my journey into the exciting world of web development. As of today, I'm on my 5th day of this incredible learning experience, and I'm thrilled to share with you my first project – a Netflix clone!
+Hey there! I'm Anasmit, and this is my journey into the exciting world of web development. As of today, I'm on my 10th day of this incredible learning experience, and I'm thrilled to share with you my first project – a Netflix clone!
 
 Project Overview<br>
 Project Name: Netflix Clone<br>
